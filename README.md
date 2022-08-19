@@ -1,2 +1,3 @@
 # Projeto_site_android
- Projeto de site referente a curso 
+
+Este projeto tem por objetivo desenvolver habilidades inicias e de competência na utilização de ferramentas como HTML5, CSS3 e juntamente Git e GitHub.
